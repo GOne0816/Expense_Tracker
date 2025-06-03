@@ -1,4 +1,18 @@
-# 💸 Expense Tracker
+<h1 align="center">💸 Expense Tracker</h1>
+<p align="center">
+  <b>A simple, modern expense tracker built with React & Tailwind CSS.</b><br>
+  <i>Easily add, view, and reset your expenses—all stored in your browser.</i>
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-getting-started">Getting Started</a> •
+  <a href="#-technologies-used">Tech Stack</a> •
+  <a href="#-scripts">Scripts</a> •
+  <a href="#-license">License</a>
+</p>
+
+---
 
 A simple, modern expense tracker built with React and Tailwind CSS. Easily add, view, and reset your expenses—all stored in your browser.
 
@@ -50,17 +64,17 @@ You can deploy the `build` folder to any static file hosting service like Vercel
 │   └── telephone-svgrepo-com.svg
 ├── src/
 │   ├── components/
-│   │   └── [ExpenseTracker.jsx](http://_vscodecontentref_/0)
-│   ├── [App.jsx](http://_vscodecontentref_/1)
-│   ├── [App.css](http://_vscodecontentref_/2)
-│   ├── [index.css](http://_vscodecontentref_/3)
-│   └── [main.jsx](http://_vscodecontentref_/4)
-├── [index.html](http://_vscodecontentref_/5)
-├── [package.json](http://_vscodecontentref_/6)
-├── [tailwind.config.js](http://_vscodecontentref_/7)
-├── [postcss.config.js](http://_vscodecontentref_/8)
-├── [vite.config.js](http://_vscodecontentref_/9)
-└── [README.md](http://_vscodecontentref_/10)
+│   │   └── [ExpenseTracker.jsx]
+│   ├── [App.jsx]
+│   ├── [App.css]
+│   ├── [index.css]
+│   └── [main.jsx]
+├── [index.html]
+├── [package.json]
+├── [tailwind.config.js]
+├── [postcss.config.js]
+├── [vite.config.js]
+└── [README.md]
 ```
 ---
 ## 🛠️ Technologies Used
