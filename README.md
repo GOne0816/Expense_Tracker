@@ -12,12 +12,6 @@
   <a href="#-license">License</a>
 </p>
 
----
-
-A simple, modern expense tracker built with React and Tailwind CSS. Easily add, view, and reset your expenses—all stored in your browser.
-
----
-
 ## ✨ Features
 
 - Add expenses with name and amount
